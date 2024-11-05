@@ -1,0 +1,7 @@
+D:\МПТ\МДК 01\ПиТПМ\FindBySize\FindBySize\obj\Debug\FindBySize.csproj.AssemblyReference.cache
+D:\МПТ\МДК 01\ПиТПМ\FindBySize\FindBySize\obj\Debug\FindBySize.csproj.CoreCompileInputs.cache
+D:\МПТ\МДК 01\ПиТПМ\FindBySize\FindBySize\bin\Debug\FindBySize.exe.config
+D:\МПТ\МДК 01\ПиТПМ\FindBySize\FindBySize\bin\Debug\FindBySize.exe
+D:\МПТ\МДК 01\ПиТПМ\FindBySize\FindBySize\bin\Debug\FindBySize.pdb
+D:\МПТ\МДК 01\ПиТПМ\FindBySize\FindBySize\obj\Debug\FindBySize.exe
+D:\МПТ\МДК 01\ПиТПМ\FindBySize\FindBySize\obj\Debug\FindBySize.pdb

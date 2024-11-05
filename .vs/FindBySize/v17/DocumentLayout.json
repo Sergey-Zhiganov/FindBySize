@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C275959F-BA65-4F5B-B6CE-6269B618BE44}|FindBySize.Tests\\FindBySize.Tests.csproj|D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\findbysize.tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C275959F-BA65-4F5B-B6CE-6269B618BE44}|FindBySize.Tests\\FindBySize.Tests.csproj|solutionrelative:findbysize.tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7947DEB-3B5F-4209-BD3D-15A8CCE5F0D9}|FindBySize\\FindBySize.csproj|D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\findbysize\\testdataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7947DEB-3B5F-4209-BD3D-15A8CCE5F0D9}|FindBySize\\FindBySize.csproj|solutionrelative:findbysize\\testdataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7947DEB-3B5F-4209-BD3D-15A8CCE5F0D9}|FindBySize\\FindBySize.csproj|D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\findbysize\\filedataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7947DEB-3B5F-4209-BD3D-15A8CCE5F0D9}|FindBySize\\FindBySize.csproj|solutionrelative:findbysize\\filedataobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7947DEB-3B5F-4209-BD3D-15A8CCE5F0D9}|FindBySize\\FindBySize.csproj|D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\findbysize\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7947DEB-3B5F-4209-BD3D-15A8CCE5F0D9}|FindBySize\\FindBySize.csproj|solutionrelative:findbysize\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7947DEB-3B5F-4209-BD3D-15A8CCE5F0D9}|FindBySize\\FindBySize.csproj|d:\\\u043C\u043F\u0442\\\u043C\u0434\u043A 01\\\u043F\u0438\u0442\u043F\u043C\\findbysize\\findbysize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7947DEB-3B5F-4209-BD3D-15A8CCE5F0D9}|FindBySize\\FindBySize.csproj|solutionrelative:findbysize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\FindBySize.Tests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "FindBySize.Tests\\ProgramTests.cs",
+              "ToolTip": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\FindBySize.Tests\\ProgramTests.cs",
+              "RelativeToolTip": "FindBySize.Tests\\ProgramTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:48:45.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestDataObject.cs",
+              "DocumentMoniker": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\FindBySize\\TestDataObject.cs",
+              "RelativeDocumentMoniker": "FindBySize\\TestDataObject.cs",
+              "ToolTip": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\FindBySize\\TestDataObject.cs",
+              "RelativeToolTip": "FindBySize\\TestDataObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:45:21.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileData.cs",
+              "DocumentMoniker": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\FindBySize\\FileData.cs",
+              "RelativeDocumentMoniker": "FindBySize\\FileData.cs",
+              "ToolTip": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\FindBySize\\FileData.cs",
+              "RelativeToolTip": "FindBySize\\FileData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:06:13.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileDataObject.cs",
+              "DocumentMoniker": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\FindBySize\\FileDataObject.cs",
+              "RelativeDocumentMoniker": "FindBySize\\FileDataObject.cs",
+              "ToolTip": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\FindBySize\\FileDataObject.cs",
+              "RelativeToolTip": "FindBySize\\FileDataObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:56:32.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\FindBySize\\Program.cs",
+              "RelativeDocumentMoniker": "FindBySize\\Program.cs",
+              "ToolTip": "D:\\\u041C\u041F\u0422\\\u041C\u0414\u041A 01\\\u041F\u0438\u0422\u041F\u041C\\FindBySize\\FindBySize\\Program.cs",
+              "RelativeToolTip": "FindBySize\\Program.cs",
+              "ViewState": "AgIAACsAAADAmZmZmZktwDYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:20:02.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
